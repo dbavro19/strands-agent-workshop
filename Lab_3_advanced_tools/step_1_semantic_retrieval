@@ -1,0 +1,39 @@
+from strands import Agent
+from strands.models import BedrockModel
+from strands_tools import retrieve
+
+
+#TOO MUCH MANUAL EFFORT< DOM WILL Showcase if time allows
+bedrock_model = BedrockModel(
+    model_id="us.anthropic.claude-3-5-haiku-20241022-v1:0",  # Specify the model ID
+    temperature=0.7,  # Control randomness (0.0 to 1.0)
+    top_p=0.9,  # Control diversity
+    max_tokens=2000,  # Maximum response length
+    region_name="us-west-2"  # AWS region where you have model access
+)
+
+AWS_KB_ID = "F1WJDLFVXN" # We Will be creating one of these later
+
+agent = Agent(
+  model = bedrock_model,
+  tools=[retrieve],
+  system_prompt="""You are a helpful assistant. Help answer the users requests. Use the tools that have been provided if relevant
+  """
+)
+
+
+results = agent.tool.retrieve(
+    text="What were the key takewawyas from amazons 2022 letter to the shareholders ",
+    numberOfResults=5,
+    score=0.4,
+    knowledgeBaseId=AWS_KB_ID,
+    region="us-east-1"
+)
+
+
+
+print(results)
+
+
+
+
