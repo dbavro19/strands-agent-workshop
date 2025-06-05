@@ -1,0 +1,25 @@
+All FAQs about 360° Financial View
+What is 360° Financial View?
+It's a secure tool you can use to view all your TIAA accounts alongside your outside accounts from over 17,000 banks, brokerage firms, retirement plans, and other data sources. Combining these accounts provides a complete picture of your finances so you can calculate your total net worth, analyze your investment allocation, track your spending, and create a budget in minutes.
+
+The 360° Financial View is available at no cost as a service from TIAA.
+
+How can it help me?
+Your 360° Financial View can help you get a complete view of your assets and liabilities while leveraging tools that will help you manage your asset allocation and financial plan. 360° Financial View does this by importing your balances each time you log in.
+
+Is it secure?
+Yes. All your information is securely stored and encrypted using stringent security standards and business practices to protect your data. Keeping your personal information secure is a top priority at TIAA. We have significant safeguards in place, and continuously monitor and implement technological and procedural improvements to increase data security. Please see our Online Privacy Policy and Security for more information.
+
+How do I link outside accounts?
+You can either link accounts by providing the login information you use to access the accounts, or input assets manually. You can even track real estate equity using online market valuations.
+
+What types of accounts can I add?
+360° Financial View supports more than 17,000 financial firms and data sources in these categories:
+
+Retirement and investment accounts
+Checking and savings
+Credit cards
+Mortgages and HELOCs
+Real estate and more
+What should I do if an account won't download?
+You may need to establish or reset your online access for that account. Contact that institution to verify your login information, then try linking the account again.

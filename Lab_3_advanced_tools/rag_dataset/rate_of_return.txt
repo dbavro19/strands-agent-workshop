@@ -1,0 +1,45 @@
+All FAQs about personal rate of return
+Why is personal rate of return simply an estimate?
+Personal rate of return (PRR) is estimated in order to provide you with useful information in a timely manner. We use a methodology called the Modified Dietz formula, which takes into account your cash flow during the specified time period. To get the precise return, we’d have to compound the returns over every period that involved a cash flow. The methodology we use assumes the return for the entire period is also the return that applies to each sub-period following the cash flow. It’s common among investment companies that provide this type of performance measure. As a general rule, the larger your cash flows are, the larger the variance between your estimated rate of return and your actual rate of return will be.
+
+What is personal rate of return?
+Personal rate of return (PRR) is an estimate of your account's performance. We use an estimate rather than an exact rate of return because we approximate the impact your cash flows have on your performance.
+
+Cash flows — the money you put in and withdraw from your account over a period of time — can have a significant impact on your account's actual performance. It’s important to know that PRR may be different from the return of your individual funds or other investment options included in your portfolio.
+
+What can I see?
+You can view a list of investments, change in balance for the past 8 quarters, details on contributions and vesting rules, and transaction history for the past 2 quarters.
+
+How does personal rate of return account for the contributions I make to my account?
+Personal rate of return (PRR) can most simply be thought of as the amount of gain/loss in a period of time, divided by your cash flow activity, which includes your contributions.
+
+When we calculate gain or loss, we don’t include contributions as part of the gain or loss total. For example, if you started with $100k, contributed $10k, and ended with $115k, we would calculate $5k as the gain, not $15k.
+
+In addition, if you’re like many of our customers, contributions are periodically deducted from your paychecks, and accounting for the exact timing of each contribution over the course of a year can make the calculation difficult for many customers to perform themselves. A contribution made early in the year isn't — and should not be — treated the same as one made closer to the end of the year. We take this time-weighting into account when calculating PRR.
+
+Why don't I see my personal rate of return?
+There may be times when your personal rate of return (PRR) can’t be calculated. If you did not have a beginning balance for the calculation start month, we cannot calculate your PRR and will display “NA.”
+
+In most cases, PRR will be able to be calculated from that point forward. In addition, the conditions listed below may result in the error message: “Personal rate of return is unavailable.”
+
+The sum of the cash flows is greater than the beginning period balance
+There is an unusually large cash inflow or outflow
+The account has either a beginning or ending negative balance
+How is personal rate of return helpful to me?
+Personal rate of return (PRR) gives you a snapshot of how you're doing. Without this estimate, you'd have to look at each fund's performance, then consider how much you contributed to and/or withdrew from each fund during a specific time period, and when you performed these transactions.
+
+PRR takes all of this into consideration and estimates your retirement plan account performance. Please keep in mind that short-term results are not indicative of long-term performance.
+
+What is an annualized return and why are we showing it?
+An annualized return represents the yearly movement (increase or decrease) in the value of an investment, including the effect of compounding. If we only show total returns, then over longer periods of time — anything longer than one year — the result can be misleading.
+
+For example, if you contributed $100 and five years later it has grown to $125, the return on your investment would be 25%. That may sound like a good return, but on an annualized basis the return is about 5% a year. To give you a better understanding of how well your investments have been performing, we annualize your personal rate of return (PRR) (similar to the way mutual funds show their fund returns over 5 and 10 years on an annualized basis).
+
+Are any balances and transactions not included in the calculation?
+Yes. The following balances and transactions won't be factored into the personal rate of return (PRR) calculation for My TIAA:
+
+Dividend transactions (mutual fund distributions are automatically reinvested)
+Special earning/interest transactions
+Fee transactions
+All Retirement Health Savings Plan transactions and balances
+All legacy Principle and Interest (P&I) contracts

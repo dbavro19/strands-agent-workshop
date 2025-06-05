@@ -1,0 +1,9 @@
+All FAQs about Account Details
+What information is available on the account detail pages?
+You can view a list of investments, change in balance for the past eight (8) quarters, details on contributions and vesting rules, and transaction history for the past two (2) quarters.
+
+How is the contribution source determined?
+Each time a contribution is applied to your account, we identify where the contribution came from (you or your employer) and if it is pre-tax or post-tax money.
+
+Why isn't my vested balance shown?
+If a vested balance doesn't show, it means an account doesn't subscribe to our service that tracks vested balances. We require that service to ensure the accuracy of the figures.
