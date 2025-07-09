@@ -19,7 +19,7 @@ bedrock_model = BedrockModel(
         temperature=0.7,  # Control randomness (0.0 to 1.0)
         top_p=0.9,  # Control diversity
         max_tokens=2000,  # Maximum response length
-        region_name="us-east-1"  # AWS region where you have model access
+        region_name="us-west-2"  # AWS region where you have model access
     )
 
 # Simple step tracking
@@ -133,6 +133,8 @@ Deliver precise, evidence-based insights that enable informed financial decision
     # Show final accumulated text if any
     if accumulated_text:
         st.markdown(f"**Agent:** {accumulated_text}")
+
+    st.markdown(result)
 
     #display metrics and vsiualizations in sidebar
     agent_visualizer.show_agent_summary_sidebar(result)
